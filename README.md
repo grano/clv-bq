@@ -1,0 +1,1 @@
+IPython notebook for calculating Customer Lifetime Value using data from BigQuery Export for Google Analytics.
